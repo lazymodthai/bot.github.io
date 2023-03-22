@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    หน้าแรก
+    นี่คือหน้าเพจแบบ PHP
 </body>
 </html>
